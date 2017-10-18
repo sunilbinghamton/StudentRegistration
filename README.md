@@ -1,7 +1,6 @@
 # StudentRegistration
-Java hibernate based app to store student details
+Java hibernate based app to store student details for Student Registration
 
-
-• This project used Java , Oracle’s PL/SQL and Hibernate to create an application that provides student registration service in a university.
+• This project used Java , MySQL and Hibernate to create an application that provides student registration service in a university.
 
 • Requirement constraints and data integrity is maintained using features like foreign keys, triggers and check conditions.
